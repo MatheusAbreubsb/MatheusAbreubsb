@@ -1,167 +1,138 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,35:1D4ED8,70:2563EB,100:38BDF8&text=Matheus%20Alves%20Abreu&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Tecnologia%20da%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=18&animation=fadeIn" alt="Banner de perfil" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1D4ED8,100:38BDF8&text=Matheus%20Alves%20Abreu&fontSize=38&fontColor=FFFFFF&fontAlignY=37&desc=Tecnologia%20da%20Informa%C3%A7%C3%A3o&descSize=17&descAlignY=58&animation=fadeIn" alt="Matheus Alves Abreu" />
 
-<br />
-<br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Desenvolvimento+de+Software;Suporte+T%C3%A9cnico+e+Infraestrutura;An%C3%A1lise+de+Dados+com+Python;Java+%7C+JavaScript+%7C+Python+%7C+SQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Desenvolvimento+de+Software;Suporte+T%C3%A9cnico+e+Redes;An%C3%A1lise+de+Dados+com+Python" alt="Áreas de atuação" />
 
 </div>
-
----
 
 ## Sobre mim
 
-Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **Universidade Católica de Brasília**, com experiência profissional em suporte técnico, atendimento a usuários e resolução de problemas de redes e conectividade.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Católica de Brasília.
 
-Tenho interesse em diferentes áreas da Tecnologia da Informação, especialmente **desenvolvimento de software, infraestrutura e análise de dados**.
+Tenho experiência profissional em suporte técnico, atendimento a usuários e resolução de problemas de redes e conectividade. Durante minha formação, desenvolvi projetos envolvendo aplicações desktop, desenvolvimento web, bancos de dados e análise estatística.
 
-Durante minha formação, desenvolvi projetos envolvendo aplicações desktop, sistemas web, bancos de dados relacionais e análise estatística com Python.
+Meus interesses estão principalmente em três áreas:
 
-Meu objetivo é continuar ampliando meus conhecimentos técnicos e aplicá-los na construção de soluções funcionais.
+- **Desenvolvimento de software:** aplicações web e desktop, lógica de programação e bancos de dados.
+- **Suporte e infraestrutura:** diagnóstico de problemas, conectividade e suporte a usuários.
+- **Análise de dados:** processamento de dados com Python, estatística e visualização de informações.
+
+Busco aprofundar meus conhecimentos por meio do desenvolvimento e da manutenção de projetos práticos.
 
 ---
 
-## Tecnologias e ferramentas
+## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,mysql,postgres,git,github,vscode" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,mysql,postgres,git,github,vscode&perline=6" alt="Tecnologias e ferramentas" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-1E3A8A?style=for-the-badge&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenPyXL-0F172A?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-2563EB?style=for-the-badge&logo=jupyter&logoColor=white" />
+**Análise de dados**
+
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-1D4ED8?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-0F172A?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/Matplotlib-1D4ED8?style=flat-square" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 
 </div>
 
 ---
 
-## Projetos em destaque
+## Projetos
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Banco Malvader</h3>
-      <p>
-        Sistema bancário desktop desenvolvido em <strong>Java</strong>, com interface em <strong>Swing</strong>,
-        integração via <strong>JDBC</strong> e persistência em <strong>MySQL</strong>.
-      </p>
-      <p><strong>Stack:</strong> Java, Swing, JDBC, MySQL, SQL</p>
-      <a href="https://github.com/MatheusAbreubsb/BancoJavaComSQL">
-        <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Banco Malvader" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>FixGo</h3>
-      <p>
-        Projeto web desenvolvido em equipe para gestão de veículos, manutenções e ocorrências.
-        Contribuições em funcionalidades do frontend e backend.
-      </p>
-      <p><strong>Stack:</strong> React, Node.js, Express, PostgreSQL</p>
-      <a href="https://github.com/gusta-xis/FixGo">
-        <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="FixGo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Quiz Pokémon</h3>
-      <p>
-        Aplicação web interativa baseada em perguntas e respostas, utilizando um algoritmo
-        de pontuação para determinar o resultado do usuário.
-      </p>
-      <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
-      <a href="https://github.com/MatheusAbreubsb/ProjetoWebJS">
-        <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Quiz Pokémon" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Análise Estatística de Projetos de Software</h3>
-      <p>
-        Estudo acadêmico utilizando uma base simulada com 220 registros para investigar
-        indicadores de prazo, custo, qualidade e satisfação, com técnicas de estatística
-        descritiva e inferencial.
-      </p>
-      <p><strong>Stack:</strong> Python, Pandas, NumPy, SciPy, Matplotlib, Jupyter</p>
-      <p><em>Repositório em preparação para disponibilização pública.</em></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### FixGo
+
+Plataforma web para gestão de veículos, manutenções e ocorrências, desenvolvida em equipe.
+
+Contribuí em funcionalidades do frontend e backend, incluindo registros de consertos e integração de informações da aplicação.
+
+**Tecnologias:** React, Node.js, Express, PostgreSQL.
+
+<a href="https://github.com/gusta-xis/FixGo"><strong>Ver repositório</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Banco Malvader
+
+Sistema bancário desktop com operações financeiras simuladas, interface gráfica e persistência de dados.
+
+Desenvolvi a implementação técnica da aplicação, incluindo telas, integração JDBC e operações com banco de dados.
+
+**Tecnologias:** Java, Swing, JDBC, MySQL, SQL.
+
+<a href="https://github.com/MatheusAbreubsb/BancoJavaComSQL"><strong>Ver repositório</strong></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Análise Estatística de Projetos de Software
+
+Projeto acadêmico com análise de 220 registros simulados, fornecidos para estudo de indicadores de desempenho de projetos.
+
+Inclui visualizações, correlações, intervalos de confiança e testes de hipóteses.
+
+**Tecnologias:** Python, Pandas, NumPy, SciPy, Matplotlib, Jupyter.
+
+<em>Repositório em preparação para publicação.</em>
+
+</td>
+<td width="50%" valign="top">
+
+### Quiz Pokémon
+
+Aplicação web interativa que utiliza respostas a um questionário e um sistema de pontuação para determinar o resultado.
+
+Inclui manipulação do DOM, eventos e apresentação dinâmica dos resultados.
+
+**Tecnologias:** HTML, CSS, JavaScript.
+
+<a href="https://github.com/MatheusAbreubsb/ProjetoWebJS"><strong>Ver repositório</strong></a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Estatísticas do GitHub
+## Contribuições
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbreubsb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="470" src="https://streak-stats.demolab.com?user=MatheusAbreubsb&theme=tokyonight&hide_border=true&background=0D1117" alt="Sequência de contribuições no GitHub" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbreubsb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+### Histórico de contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MatheusAbreubsb/MatheusAbreubsb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MatheusAbreubsb/MatheusAbreubsb/output/github-contribution-grid-snake.svg" />
+  <img width="760"
+    alt="Animação do histórico de contribuições"
+    src="https://raw.githubusercontent.com/MatheusAbreubsb/MatheusAbreubsb/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## Sequência de contribuições
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MatheusAbreubsb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-
-## Conquistas
-
-<h2>Conquistas</h2>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=MatheusAbreubsb&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12"
-    alt="GitHub Trophies"
-  />
-</div>
-
-
----
-
-## Snake Contribution
-
-<h2>Snake Contribution</h2>
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MatheusAbreubsb/MatheusAbreubsb/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MatheusAbreubsb/MatheusAbreubsb/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/MatheusAbreubsb/MatheusAbreubsb/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</div>
-
----
-
-<div align="center">
-
-### Obrigado pela visita
-
-<sub>Construindo experiência prática em tecnologia, um projeto por vez.</sub>
-
+<sub>Matheus Alves Abreu · Brasília, DF</sub>
 </div>
