@@ -132,11 +132,15 @@ Meu objetivo é continuar ampliando meus conhecimentos técnicos e aplicá-los n
 
 ## Conquistas
 
+<h2>Conquistas</h2>
+
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MatheusAbreubsb&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub Trophies" />
-
+  <img
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=MatheusAbreubsb&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12"
+    alt="GitHub Trophies"
+  />
 </div>
+
 
 ---
 
