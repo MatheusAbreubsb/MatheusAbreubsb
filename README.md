@@ -120,15 +120,6 @@ Meu objetivo é continuar ampliando meus conhecimentos técnicos e aplicá-los n
 
 ---
 
-## Atividade recente
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusAbreubsb&bg_color=0f172a&color=93c5fd&line=38bdf8&point=60a5fa&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
 
 ## Conquistas
 
@@ -146,10 +137,23 @@ Meu objetivo é continuar ampliando meus conhecimentos técnicos e aplicá-los n
 
 ## Snake Contribution
 
+<h2>Snake Contribution</h2>
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/MatheusAbreubsb/MatheusAbreubsb/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" />
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MatheusAbreubsb/MatheusAbreubsb/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MatheusAbreubsb/MatheusAbreubsb/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/MatheusAbreubsb/MatheusAbreubsb/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>
 
 ---
